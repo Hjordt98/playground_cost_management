@@ -1,0 +1,6 @@
+projekt_id,type,areal_m2,højde_m,materiale,kompleksitet,arbejdstimer,materiale_omkostninger,total_pris,afsluttet_dato
+2001,Naturlegeplads,320,2.8,Robinie,Høj,580,195000,470500,2023-03-15
+2002,Skolegård,150,1.5,Gummiasfalt,Lav,220,85000,189500,2023-05-22
+2003,Aktivitetspark,450,4.2,Komposit/Stål,Høj,890,385000,807750,2023-07-10
+2004,Børnehave,180,2.2,HPL/Robinie,Medium,340,145000,306500,2023-09-01
+2005,Institution,275,3.5,HPL/Stål,Høj,620,255000,549500,2023-11-15 

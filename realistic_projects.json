@@ -1,0 +1,127 @@
+{
+  "projekter": [
+    {
+      "projekt_id": 2001,
+      "type": "Naturlegeplads",
+      "specifikationer": {
+        "areal_m2": 320,
+        "højde_m": 2.8,
+        "primær_materiale": "Robinie",
+        "sekundære_materialer": ["Tovværk", "Rustfrit stål"],
+        "kompleksitet": "Høj",
+        "underlag": "Faldgrus/Bark"
+      },
+      "økonomi": {
+        "arbejdstimer": 580,
+        "timeløn": 475,
+        "materiale_omkostninger": 195000,
+        "total_pris": 470500,
+        "transport_omkostninger": 15000
+      },
+      "detaljer": {
+        "afsluttet_dato": "2023-03-15",
+        "elementer": [
+          "Klatreskov med platforme",
+          "Balancebane",
+          "Fugleredegynge",
+          "Naturligt amfiteater",
+          "Stammesti"
+        ],
+        "særlige_krav": "Naturlig integration i eksisterende landskab",
+        "målgruppe": "3-12 år"
+      }
+    },
+    {
+      "projekt_id": 2002,
+      "type": "Skolegård",
+      "specifikationer": {
+        "areal_m2": 150,
+        "højde_m": 1.5,
+        "primær_materiale": "Gummiasfalt",
+        "sekundære_materialer": ["Thermoplast"],
+        "kompleksitet": "Lav",
+        "underlag": "Gummiasfalt"
+      },
+      "økonomi": {
+        "arbejdstimer": 220,
+        "timeløn": 475,
+        "materiale_omkostninger": 85000,
+        "total_pris": 189500,
+        "transport_omkostninger": 8000
+      },
+      "detaljer": {
+        "afsluttet_dato": "2023-05-22",
+        "elementer": [
+          "Hinkeruder",
+          "Løbebane",
+          "Boldspilsområde",
+          "Tal og bogstaver"
+        ],
+        "særlige_krav": "Slidstærkt og vedligeholdelsesfrit",
+        "målgruppe": "6-15 år"
+      }
+    },
+    {
+      "projekt_id": 2003,
+      "type": "Aktivitetspark",
+      "specifikationer": {
+        "areal_m2": 450,
+        "højde_m": 4.2,
+        "primær_materiale": "Komposit/Stål",
+        "sekundære_materialer": ["HPL", "Rustfrit stål", "Gummiasfalt"],
+        "kompleksitet": "Høj",
+        "underlag": "Kombineret gummi og græsarmering"
+      },
+      "økonomi": {
+        "arbejdstimer": 890,
+        "timeløn": 475,
+        "materiale_omkostninger": 385000,
+        "total_pris": 807750,
+        "transport_omkostninger": 25000
+      },
+      "detaljer": {
+        "afsluttet_dato": "2023-07-10",
+        "elementer": [
+          "Parkour område",
+          "Fitness zone",
+          "Multibane",
+          "Klatrevæg",
+          "Opholdszoner"
+        ],
+        "særlige_krav": "LED-belysning, handicapvenlig adgang",
+        "målgruppe": "12 år og op"
+      }
+    },
+    {
+      "projekt_id": 2004,
+      "type": "Børnehave",
+      "specifikationer": {
+        "areal_m2": 180,
+        "højde_m": 2.2,
+        "primær_materiale": "HPL/Robinie",
+        "sekundære_materialer": ["HDPE", "Rustfrit stål"],
+        "kompleksitet": "Medium",
+        "underlag": "Kunstgræs"
+      },
+      "økonomi": {
+        "arbejdstimer": 340,
+        "timeløn": 475,
+        "materiale_omkostninger": 145000,
+        "total_pris": 306500,
+        "transport_omkostninger": 12000
+      },
+      "detaljer": {
+        "afsluttet_dato": "2023-09-01",
+        "elementer": [
+          "Legehus med butik",
+          "Sandkasse med solsejl",
+          "Småbørnsrutsjebane",
+          "Kravle-tunnel",
+          "Musik-væg"
+        ],
+        "særlige_krav": "Særligt fokus på 2-6 års aldersgruppen",
+        "målgruppe": "2-6 år"
+      }
+    }
+  ]
+} 
